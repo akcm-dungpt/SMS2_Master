@@ -1,0 +1,7 @@
+Vấn đề cần trao đổi GitHub:
+- Confirm người phụ trách các bước:
+	+ SMS: bước 1->6 và bước 12->17
+	+ Luvina: bước 7->11
+- Flow này chỉ áp dụng cho môi trường STG đúng không? Nếu đúng thì flow này có áp dụng cho ldev ko?
+- SMS có Rule gì cho từng bước trong flow này không?
+	Ví dụ: khi pull request xong thì có phải thông báo cho SMS ko? thông báo bằng phương tiện gì? nội dung thông báo như nào?
