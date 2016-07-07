@@ -5,4 +5,3 @@ Vấn đề cần trao đổi GitHub:
 - Flow này chỉ áp dụng cho môi trường STG đúng không? Nếu đúng thì flow này có áp dụng cho ldev ko?
 - SMS có Rule gì cho từng bước trong flow này không?
 	Ví dụ: khi pull request xong thì có phải thông báo cho SMS ko? thông báo bằng phương tiện gì? nội dung thông báo như nào?
-- Tiếp
